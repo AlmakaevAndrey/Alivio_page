@@ -50,7 +50,7 @@ a {
     cursor: pointer;
 }
 
-.btn-signin {
+.btn--signin {
     background-color: transparent;
     color: var(--co-black);
 }
