@@ -31,7 +31,7 @@
     color: var(--co-light-black);
     font-size: 20px;
     font-weight: 500;
-    max-width: 670px;
+    max-width: 530px;
 }
 
 .about__cards {
@@ -52,6 +52,10 @@
         align-items: center;
         justify-content: start;
         gap: 20px;
+    }
+
+    .about__disc {
+        
     }
     
     .about__cards {
